@@ -1,0 +1,2 @@
+int head;
+int k;
